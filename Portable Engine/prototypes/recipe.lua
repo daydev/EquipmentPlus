@@ -3,7 +3,7 @@ data:extend({
         type = "recipe",
         name = "portable-engine-equipment",
         enabled = false,
-        energy_required = 1,
+        energy_required = 20,
         ingredients =
         {
             { "engine-unit", 20 },

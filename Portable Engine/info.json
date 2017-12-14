@@ -1,7 +1,7 @@
 {
   "name": "EquipmentPlusPortableEngine",
-  "version": "0.1.0",
-  "factorio_version": "0.15",
+  "version": "0.1.1",
+  "factorio_version": "0.16",
   "title": "Equipment+: Portable Engine",
   "author": "daydev",
   "description": "Adds Portable Engine armor equipment that burns fuels to produce power.",

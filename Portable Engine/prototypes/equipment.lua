@@ -38,7 +38,7 @@ data:extend({
             type = "burner",
             usage_priority = "secondary-output"
         },
-        power = "125kW",
+        power = "300kW",
         categories = { "armor" }
     }
 })

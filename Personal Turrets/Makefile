@@ -1,5 +1,5 @@
-VERSION := 0.1.171
-NAME := EquipmentPlusPortableEngine
+VERSION := 0.1.0
+NAME := EquipmentPlusPersonalTurrets
 FACTORIO_HOME := $$HOME/bin/games/factorio
 
 all: clean build install_mod
@@ -7,7 +7,7 @@ all: clean build install_mod
 build:
 	mkdir build/
 	mkdir build/$(NAME)_$(VERSION)
-	cp -R info.json thumbnail.png data.lua prototypes graphics locale build/$(NAME)_$(VERSION)
+	cp -R info.json data.lua prototypes graphics locale build/$(NAME)_$(VERSION)
 	cd build && zip -r $(NAME)_$(VERSION).zip $(NAME)_$(VERSION)
 
 clean:

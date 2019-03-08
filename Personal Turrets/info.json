@@ -1,0 +1,9 @@
+{
+  "name": "EquipmentPlusPersonalTurrets",
+  "version": "0.1.0",
+  "factorio_version": "0.16",
+  "title": "Equipment+: Personal Turrets",
+  "author": "daydev",
+  "description": "Adds ammo based personal defense equipments: Personal CIWS, Personal Recoilless Gun",
+  "dependencies": []
+}

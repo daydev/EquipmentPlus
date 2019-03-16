@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.173
+Date: 2017-09-29
+  Features:
+    - Added changelog
+  Changes:
+    - Changed the engine's power generation to 200 kW
+    - Changed the engine's recipe to be more expensive and require Lubricant
+    - Changed pollution generation to agree with the changes in Factorio 0.17.12
+---------------------------------------------------------------------------------------------------
+Version: 0.1.172
+Date: 2019-03-09
+  Changes:
+    - Removed efficiency of the engine
+    - Changed the engine's power generation to 250 kW
+---------------------------------------------------------------------------------------------------
+Version: 0.1.171
+Date: 2019-03-08
+  Changes:
+    - Changed the engine's power generation to 300 kW to be competitive with the newly buffed solar panels
+---------------------------------------------------------------------------------------------------
+Version: 0.1.17
+Date: 2019-03-08
+  Features:
+    - Updated for Factorio 0.17
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2017-12-14
+  Features:
+    - Updated for Factorio 0.16
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2017-09-29
+  Features:
+    - 2x2 125 kW burner generator armor equipment to fill the gap between the solar panels and the fusion reactor.
+  Locale:
+    - English, Russian, Ukrainian.

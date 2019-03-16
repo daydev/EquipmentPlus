@@ -18,7 +18,7 @@ data:extend({
         burner =
         {
             fuel_category = "chemical",
-            emissions = 0.01,
+            emissions_per_second_per_watt = 40 / 200000,
             fuel_inventory_size = 2,
             smoke =
             {
@@ -26,7 +26,7 @@ data:extend({
                     name = "smoke",
                     deviation = { 0.1, 0.1 },
                     frequency = 5,
-                    position = { 0.0, -0.8 },
+                    position = { 0, 0 },
                     starting_vertical_speed = 0.08,
                     starting_frame_deviation = 60
                 }
@@ -37,7 +37,7 @@ data:extend({
             type = "burner",
             usage_priority = "secondary-output"
         },
-        power = "250kW",
+        power = "200kW",
         categories = { "armor" }
     }
 })

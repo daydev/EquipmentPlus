@@ -14,7 +14,7 @@ data:extend({
         prerequisites = { "modular-armor", "engine" },
         unit =
         {
-            count = 150,
+            count = 200,
             ingredients =
             {
                 { "automation-science-pack", 1 },

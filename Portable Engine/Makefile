@@ -1,4 +1,4 @@
-VERSION := 0.1.173
+VERSION := 0.2.0
 NAME := EquipmentPlusPortableEngine
 FACTORIO_HOME := $$HOME/bin/games/factorio
 
